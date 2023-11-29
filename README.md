@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marcus</h1>
 <h3 align="center">A passionate software engineer from Omaha Nebraska.</h3>
-<iframe src="https://giphy.com/embed/KEYMsj2LcXzfcTP5ii" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a align="right" alt="Coding" width="400" href="https://giphy.com/gifs/thecodingspacerd-code-coding-codecodecode-KEYMsj2LcXzfcTP5ii">via GIPHY</a></p>
+<img align="right" alt="Coding" width="400" src=https://media1.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif?cid=ecf05e47uzieo7f2ryonzn27hjljk3zift37a0sijrs3ehn7&ep=v1_gifs_search&rid=giphy.gif&ct=g>
 - 🌱 I’m currently learning **Django**
 
 - 👨‍💻 Check out my website at [https://marcus-vaughn-jones.com](https://marcus-vaughn-jones.com)
