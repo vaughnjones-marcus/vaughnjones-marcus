@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Marcus</h1>
 <h3 align="center">A passionate software engineer from Omaha Nebraska.</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/KEYMsj2LcXzfcTP5ii">
+<iframe src="https://giphy.com/embed/KEYMsj2LcXzfcTP5ii" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a align="right" alt="Coding" width="400" href="https://giphy.com/gifs/thecodingspacerd-code-coding-codecodecode-KEYMsj2LcXzfcTP5ii">via GIPHY</a></p>
 - 🌱 I’m currently learning **Django**
 
 - 👨‍💻 Check out my website at [https://marcus-vaughn-jones.com](https://marcus-vaughn-jones.com)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **What I'm working on**
 
 - 📫 How to reach me **vaughnjones.marcus@gmail.com**
 
