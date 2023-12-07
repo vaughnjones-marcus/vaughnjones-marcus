@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marcus</h1>
 <h3 align="center">A passionate software engineer from Omaha Nebraska!</h3>
-<img align="right" alt="Coding" width="400" src=https://media1.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif?cid=ecf05e47uzieo7f2ryonzn27hjljk3zift37a0sijrs3ehn7&ep=v1_gifs_search&rid=giphy.gif&ct=g>
+
 - 🌱 I’m currently learning React
 
 - 👨‍💻 Check out my website at [https://marcus-vaughn-jones.com](https://marcus-vaughn-jones.com)
-
-- 💬 Ask me about **What I'm working on**
 
 - 📫 How to reach me **vaughnjones.marcus@gmail.com**
 
