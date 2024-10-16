@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcus</h1>
 <h3 align="center">A passionate software engineer from Omaha Nebraska!</h3>
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Mainframe Develpoment
 
 - 👨‍💻 Check out my website at [https://marcus-vaughn-jones.com](https://marcus-vaughn-jones.com)
 
